@@ -1,8 +1,8 @@
 [
   {
     "id": "1",
-    "username": "bazera",
-    "imgName": "../../../assets/images/temcho.png"
+    "username": "Zuka",
+    "imgName": "../../../assets/images/zuka.png"
   },
   {
     "id": "2",
@@ -12,11 +12,11 @@
   {
     "id": "3",
     "username": "Kapo",
-    "imgName": "../../../assets/images/temcho.png"
+    "imgName": "../../../assets/images/kapo.png"
   },
   {
     "id": "4",
     "username": "Guro",
-    "imgName": "../../../assets/images/temcho.png"
+    "imgName": "../../../assets/images/guro.png"
   }
 ]
