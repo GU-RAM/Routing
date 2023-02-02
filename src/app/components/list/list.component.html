@@ -1,0 +1,10 @@
+<ul>
+  <li
+    *ngFor="let user of users; let i = index"
+    [routerLink]="'/details/' + user.id"
+    routerLinkActive="active"
+  >
+    {{ user.username }}
+    <img [src]="user.imgName" alt="" />
+  </li>
+</ul>

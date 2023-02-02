@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "username": "bazera",
+    "imgName": "../../../assets/images/temcho.png"
+  },
+  {
+    "id": "2",
+    "username": "Temcho",
+    "imgName": "../../../assets/images/temcho.png"
+  },
+  {
+    "id": "3",
+    "username": "Kapo",
+    "imgName": "../../../assets/images/temcho.png"
+  },
+  {
+    "id": "4",
+    "username": "Guro",
+    "imgName": "../../../assets/images/temcho.png"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "username": "bazera",
+    "firstName": "Giorgi",
+    "lastName": "Bazerashvili",
+    "aboutMe": "About Bazera",
+    "imgName": "../../../../assets/images/temcho.png"
+  },
+  {
+    "id": "2",
+    "username": "Temcho",
+    "firstName": "Temur",
+    "lastName": "Takalandze",
+    "aboutMe": "About Temo",
+    "imgName": "../../../../assets/images/temcho.png"
+  },
+  {
+    "id": "3",
+    "username": "Kapo",
+    "firstName": "Giorgi",
+    "lastName": "Kapanadze",
+    "aboutMe": "About Kapo",
+    "imgName": "../../../../assets/images/temcho.png"
+  },
+  {
+    "id": "4",
+    "username": "Guro",
+    "firstName": "Guram",
+    "lastName": "Dgebuadze",
+    "aboutMe": "About Guro",
+    "imgName": "../../../../assets/images/temcho.png"
+  }
+]
